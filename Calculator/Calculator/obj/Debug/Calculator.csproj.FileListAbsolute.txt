@@ -1,0 +1,7 @@
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ruban\Desktop\uni1\CS projects\C sharp\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
